@@ -33,10 +33,12 @@ Files:
 1. Naive Random Oversampling
 ![naive](Resources/naive.png)
 2. SMOTE Oversampling
+![SMOTE](Resources/SMOTE.png)
 3. Cluser Centroid Undersampling
-4. SMOTEEN Combo Sampling (Over and Under)
+4. SMOTEENN Combo Sampling (Over and Under)
+![SMOTEENN](Resources/SMOTEENN.png)
 
 **ENSEMBLE:**
 
-5. Balanced Random Forest Classifier
-6. Easy Ensemble AdaBoost Classifier
+1. Balanced Random Forest Classifier
+2. Easy Ensemble AdaBoost Classifier
