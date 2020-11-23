@@ -45,5 +45,6 @@ Files:
 ![random forest](Resources/random%20forest%201.png)
 ![random forest features](Resources/random%20forest%202.png)
 2. Easy Ensemble AdaBoost Classifier
+![AdaBoost](Resources/AdaBoost.png)
 
 ## Summary
