@@ -34,7 +34,8 @@ Files:
 ![naive](Resources/naive.png)
 2. SMOTE Oversampling
 ![SMOTE](Resources/SMOTE.png)
-3. Cluser Centroid Undersampling
+3. Cluster Centroid Undersampling
+![cluster](Resources/undersampling.png)
 4. SMOTEENN Combo Sampling (Over and Under)
 ![SMOTEENN](Resources/SMOTEENN.png)
 
